@@ -6,6 +6,9 @@ LinkDotCut is a cutting-edge link shortener application built on the Polkadot ec
 
 This README provides a brief guide on how to set up, deploy, and use the LinkDotCut link shortener.
 
+
+## [Presentation](https://tome.app/anurag-kingdom/ink-your-links-deploying-a-polkadot-smart-contract-on-aleph-zero-testnet-for-url-shortening-cllsgbbfs032sob5q0k16p8p2)
+
 ## Features
 
 - Shorten long URLs into compact, manageable links.
